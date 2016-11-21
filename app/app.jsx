@@ -6,7 +6,6 @@ var Timer = require('Timer');
 var Counter = require('Counter');
 
 // Load foundation
-require('style!css!foundation-sites/dist/foundation.min.css');
 $(document).foundation();
 
 // App css
